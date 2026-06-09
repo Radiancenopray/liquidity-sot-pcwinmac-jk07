@@ -1,4 +1,4 @@
-# 
+# Automático liquidity sniper bot extensiones para Mac OS | Ligero liquidity sniper bot extensiones para PC Windows. Con notificaciones de alerta y integración de router DEX — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
